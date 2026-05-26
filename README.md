@@ -76,7 +76,10 @@ int main(int argc, char *argv[]) {
 }
 ---
 
+```
+
 # OUTPUT
+ 
  ![Alt text](img/filecopy.png)
 
 
